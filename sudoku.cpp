@@ -31,6 +31,7 @@ void check_block()
 
 void fill_number()
 {
+	cout << "do something here";
     /* TODO: Fill a number in to the cell the cursor is now pointing to.
              After fill in the number, check the horizontal line, the
              vertical line and the block the cell is in.
